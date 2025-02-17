@@ -2,7 +2,7 @@
 
 # I am **Jordan Morris**
 
-Im studying to become a Cloud Engineer specializing in Azure, Python and Ai
+Im studying to become a Cloud Engineer specializing in Azure, Python and Ai. I currently a Service Desk Engineer looking to be a System Administrator
 
 ## I also am a trained fighter
 
