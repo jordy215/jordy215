@@ -12,6 +12,9 @@ I do Muay Thai/Kickboxing
 
 I did beats for alot of NY based artists such as Kay Flock, Dougie B and Sha Ek
 
-#### The End
+#### Here are my social media links
+
+[Linkedin](https://www.linkedin.com/in/jordanmorristech)
+
 
 
