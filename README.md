@@ -12,7 +12,4 @@ I do Muay Thai/Kickboxing
 
 I did beats for alot of NY based artists such as Kay Flock, Dougie B and Sha Ek
 
-<!---
-jordy215/jordy215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
